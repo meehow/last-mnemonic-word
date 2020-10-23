@@ -8,8 +8,8 @@ but last word contains a checksum, so program will ask you to choose it from sho
 
 ## Warning
 
-This wallet will be way less safe than wallets generated from random values.
-Please don't store large sums on it and ideally transfer all funds to random generated wallet after giving is to someone as a gift.
+This wallet will be way less secure than wallets generated from random values.
+Please don't store large sums on it and/or explain gifted person that funds should be transferred to a wallet with randomly generated seeds.
 
 ## Demo
 
